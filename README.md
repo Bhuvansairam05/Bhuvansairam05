@@ -29,13 +29,13 @@ Here are some ideas to get you started:
 
 ## 🚀 Projects
 
-### [Olympic-List](https://github.com/Bhuvansairam05/Olympics-List)  
+### [Olympic-List](https://github.com/Bhuvansairam05/Olympics-List) | [Live Demo](https://olympics-backend-pjmj.onrender.com/)  
 *Express.js, HTML, CSS, JavaScript, API*  
 - Built a responsive platform to **view Olympic medal tallies since 2008**.  
 - Integrated **APIs** and **socket.io** for live Olympic news updates.  
 - Designed a clean and modular dashboard for easy access to data.  
 
-### [Crop Monitoring Using Computer Vision](https://github.com/Bhuvansairam05/Crop-Monitoring-Using-Computer-Vision)  
+### [Crop Monitoring Using Computer Vision](https://github.com/Bhuvansairam05/Crop-Monitoring-Using-Computer-Vision) | [Live Demo](https://crop-monitoring-using-computer-vision.onrender.com/)  
 *Express.js, HTML, CSS, JavaScript, API*  
 - Developed a system to detect **crop health & diseases** from uploaded images.  
 - Used **Plant.id API** to analyze plant health and suggest **curing techniques**.  
