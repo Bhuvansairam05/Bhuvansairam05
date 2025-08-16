@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi, I'm Bhuvana Sai Ram Tellakula  
+#  Hi, I'm Bhuvana Sai Ram Tellakula  
 
 🌐 **Full Stack Web Developer (MERN) Trainee** at Gradious Technologies (March 2025 – Present)  
 🎓 B.Tech in **Artificial Intelligence and Data Science** @ Vasireddy Venkatadri Institute of Technology (2022–2026)  
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 ### [Olympic-List](https://github.com/Bhuvansairam05/Olympics-List) | [Live Demo](https://olympics-backend-pjmj.onrender.com/)  
 *Express.js, HTML, CSS, JavaScript, API*  
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 🛠 Technical Skills
+##  Technical Skills
 - **Languages:** Python, Java, C, JavaScript  
 - **Web Development:** HTML, CSS, JavaScript, React.js, Node.js, Express.js  
 - **Other:** APIs, Computer Vision basics  
@@ -61,13 +61,13 @@ Check out my personal portfolio 👉 [Live Demo](https://portfolio-zeta-beryl-50
 
 ---
 
-## 📫 Connect with Me
+##  Connect with Me
 - 📧 Email: bhuvanasairam2005@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/bhuvan0405
 - 🖥 Github: https://github.com/Bhuvansairam05
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 ![Bhuvana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhuvansairam05&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvansairam05&layout=compact&theme=radical)  
