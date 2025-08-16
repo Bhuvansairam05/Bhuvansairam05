@@ -63,8 +63,8 @@ Check out my personal portfolio 👉 [Live Demo](https://portfolio-zeta-beryl-50
 
 ## 📫 Connect with Me
 - 📧 Email: bhuvanasairam2005@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/bhuvan0405)  
-- 🖥 [GitHub](https://github.com/Bhuvansairam05)  
+- 💼 LinkedIn: https://www.linkedin.com/in/bhuvan0405
+- 🖥 Github: https://github.com/Bhuvansairam05
 
 ---
 
